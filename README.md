@@ -1,1 +1,1 @@
-# school-results-system-1
+# school-results-system
